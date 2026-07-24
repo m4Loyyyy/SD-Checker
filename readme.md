@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <img src="docs/accounts.png" width="48%" alt="Accounts Scanner"/>
-  <img src="docs/GameFolder.png" width="48%" alt="Game Folder Scanner"/>
+  <img src="docs/gamefolder.png" width="48%" alt="Game Folder Scanner"/>
 </p>
 
 ---
