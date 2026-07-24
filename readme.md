@@ -12,7 +12,12 @@
 ## Preview / Предпросмотр
 
 <p align="center">
-  <img src="docs/preview.png" alt="SD Checker Interface" width="800"/>
+  <img src="docs/home.png" width="48%" alt="Home Page"/>
+  <img src="docs/programm.png" width="48%" alt="Programm Page"/>
+</p>
+<p align="center">
+  <img src="docs/accounts.png" width="48%" alt="Accounts Scanner"/>
+  <img src="docs/gamefolder.png" width="48%" alt="Game Folder Scanner"/>
 </p>
 
 ---
