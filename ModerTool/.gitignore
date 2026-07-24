@@ -1,0 +1,31 @@
+﻿## Visual Studio build & cache folders
+.vs/
+bin/
+obj/
+publish/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+
+## Package files
+*.nupkg
+*.snupkg
+
+## OS generated files
+thumbs.db
+ehthumbs.db
+Desktop.ini
+[Dd]s_[St]ore
